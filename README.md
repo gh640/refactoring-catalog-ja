@@ -224,7 +224,7 @@ Martin Fowler 氏の書籍『 Refactoring: Improving the Design of Existing Code
     - Split Phase
     - Inline Function
     - Inline Class
-- Speculative Generality: 壮大な汎用性
+- Speculative Generality: 投機的な汎用性
     - Collapse Hierarchy
     - Inline Function
     - Inline Class
