@@ -1,6 +1,6 @@
 # リファクタリングカタログ
 
-Marin Fowler 氏の書籍『 Refactoring: Improving the Design of Existing Code 』（ the second edition ）で紹介されているリファクタリングテクニックとバッドスメルの一覧です。
+Martin Fowler 氏の書籍『 Refactoring: Improving the Design of Existing Code 』（ the second edition ）で紹介されているリファクタリングテクニックとバッドスメルの一覧です。
 
 詳細は原典にあたることをおすすめします。
 
